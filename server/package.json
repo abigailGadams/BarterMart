@@ -1,5 +1,5 @@
 {
-  "name": "graphql-activities",
+  "name": "bartermart-server",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,11 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^2.15.1",
+    "apollo-server-express": "^2.24.1",
+    "bcrypt": "^5.0.1",
     "express": "^4.17.1",
     "faker": "^4.1.0",
     "graphql": "^15.5.0",
-    "mongoose": "^5.9.22"
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.11",
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
