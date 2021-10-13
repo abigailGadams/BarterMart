@@ -1,6 +1,8 @@
 # BarterMart
+![Screen Shot 2021-10-13 at 2 56 38 PM](https://user-images.githubusercontent.com/74374839/137218205-f528f379-58d1-421c-86c4-4cdd87672a73.png)
 
 ## USER STORY
+
 	AS A user of BarterMart I WANT POST (offer) an item to trade amongst other users.
 	AS A user I WANT to trade good and services with other users.
 	AS A user I WANT to be able to manage my Inventory/Post and the offers/comments on each
