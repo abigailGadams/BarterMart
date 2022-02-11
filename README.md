@@ -1,5 +1,5 @@
 # BarterMart
-
+https://bartermart.herokuapp.com/
 ## USER STORY
 	AS A user of BarterMart I WANT POST (offer) an item to trade amongst other users.
 	AS A user I WANT to trade good and services with other users.
